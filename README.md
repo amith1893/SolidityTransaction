@@ -1,4 +1,8 @@
-# SolidityTransaction
+# TEAM MEMBERS
+
+## AKRITI KAPUR and AMITH GOPAL
+
+# Solidity Transaction
 
 This repository consists of a solidity file called transact.sol.
 
